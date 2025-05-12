@@ -1,5 +1,10 @@
 {
-  "private": true,
+  "name": "nextjs-dashboard",
+  "version": "0.0.0",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/cutterbl/nextjs-dashboard.git"
+  },
   "scripts": {
     "build": "next build",
     "dev": "next dev --turbopack",
